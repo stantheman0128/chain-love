@@ -1,6 +1,7 @@
 slug,provider,offer,actionButtons,toolType,tag,price,planName,planType,description,starred
 agent-kit,,!offer:agent-kit,,,,,,,,
 chain-ide,,!offer:chain-ide,,,,,,,,
+native-oft-adapter,,!offer:native-oft-adapter,"[""[Docs](https://docs.somnia.network/developer/smart-contracts)"",""[NativeOFTAdapter](https://explorer.somnia.network/address/0xC3D4E9Ac47D7f37bB07C2f8355Bb4940DEA3bbC3)""]",,,,,,,
 pimlico-account-abstraction,,!offer:pimlico-account-abstraction,"[""[Docs](https://docs.somnia.network/developer/deployment-and-production/ecosystem/ecosystem-tools)""]",,,,,,,
 reown-free,,!offer:reown-free,,,,,,,,
 reown-pro,,!offer:reown-pro,,,,,,,,
