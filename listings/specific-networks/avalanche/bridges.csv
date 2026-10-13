@@ -1,6 +1,6 @@
 slug,provider,offer,actionButtons,chain,technology,txSpeedSla,throughputSla,openSource,support,supportedChains,starred,availableApis,monitoringAndAnalytics,additionalFeatures,assetTypes,price,economicalSecurity,economicalSecurityNote,auditsPerformed,decentralizationModel,sdk,tag
 allbridge-core,,!offer:allbridge-core,,mainnet,,,,,,,,,,,,,,,,,,
-asterizm,,!offer:asterizm,,mainnet,,,,,,,,,,,,,,,,,,
+asterizm,,!offer:asterizm,"[""[Bridge](https://asterizm.io/)"",""[Docs](https://docs.asterizm.io/)"",""[Contracts](https://docs.asterizm.io/technical-reference/mainnet)"",""[Asterizm Initializer (C-Chain)](https://explorer.avax.network/c-chain/address/0x1478477028f87c9EfDaDbaFD3bEC137Fd7E1445c)""]",mainnet,,,,,,,,,,,,,,,,,,
 axelar,,!offer:axelar,,mainnet,,,,,,,,,,,,,,,,,,
 celer,,!offer:celer,,mainnet,,,,,,,,,,,,,,,,,,
 chainlink-bridge,,!offer:chainlink-bridge,,mainnet,,,,,,,,,,,,,,,,,,
