@@ -1,5 +1,5 @@
 slug,provider,offer,actionButtons,chain,technology,txSpeedSla,throughputSla,openSource,support,supportedChains,starred,availableApis,monitoringAndAnalytics,additionalFeatures,assetTypes,price,economicalSecurity,economicalSecurityNote,auditsPerformed,decentralizationModel,sdk,tag
-allbridge-core,,!offer:allbridge-core,,mainnet,,,,,,,,,,,,,,,,,,
+allbridge-core,,!offer:allbridge-core,"[""[Bridge](https://core.allbridge.io/)"",""[Docs](https://docs-core.allbridge.io/)"",""[Contracts](https://docs-core.allbridge.io/product/how-does-allbridge-core-work/allbridge-core-contracts)"",""[Bridge (C-Chain)](https://snowtrace.io/address/0x9068E1C28941D0A680197Cc03be8aFe27ccaeea9)"",""[CctpBridge (C-Chain)](https://snowtrace.io/address/0x65dE05Fccce36Ce7FdDd668Ef4348D9e933B57Ff)"",""[CCTP v2 interface (C-Chain)](https://snowtrace.io/address/0x5FBf8d23fa705A0bADb6f398fDcdC28FCCB521c0)""]",mainnet,,,,,,,,,,,,,,,,,,
 asterizm,,!offer:asterizm,,mainnet,,,,,,,,,,,,,,,,,,
 axelar,,!offer:axelar,,mainnet,,,,,,,,,,,,,,,,,,
 celer,,!offer:celer,,mainnet,,,,,,,,,,,,,,,,,,
