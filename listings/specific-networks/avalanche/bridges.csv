@@ -2,7 +2,7 @@ slug,provider,offer,actionButtons,chain,technology,txSpeedSla,throughputSla,open
 allbridge-core,,!offer:allbridge-core,,mainnet,,,,,,,,,,,,,,,,,,
 asterizm,,!offer:asterizm,,mainnet,,,,,,,,,,,,,,,,,,
 axelar,,!offer:axelar,,mainnet,,,,,,,,,,,,,,,,,,
-celer,,!offer:celer,,mainnet,,,,,,,,,,,,,,,,,,
+celer,,!offer:celer,"[""[Bridge](https://cbridge.celer.network)"",""[Docs](https://cbridge-docs.celer.network/)"",""[Contract Addresses](https://cbridge-docs.celer.network/reference/contract-addresses)"",""[Bridge Contract](https://explorer.avax.network/c-chain/address/0xef3c714c9425a8F3697A9C969Dc1af30ba82e5d4)"",""[OriginalTokenVault](https://explorer.avax.network/c-chain/address/0x5427FEFA711Eff984124bFBB1AB6fbf5E3DA1820)"",""[OriginalTokenVault V2](https://explorer.avax.network/c-chain/address/0xb51541df05DE07be38dcfc4a80c05389A54502BB)"",""[PeggedTokenBridge](https://explorer.avax.network/c-chain/address/0x88DCDC47D2f83a99CF0000FDF667A468bB958a78)"",""[PeggedTokenBridge V2](https://explorer.avax.network/c-chain/address/0xb774C6f82d1d5dBD36894762330809e512feD195)""]",mainnet,,,,,,,,,,,,,,,,,,
 chainlink-bridge,,!offer:chainlink-bridge,,mainnet,,,,,,,,,,,,,,,,,,
 chainport,,!offer:chainport,,mainnet,,,,,,,,,,,,,,,,,,
 chainspot,,!offer:chainspot,,mainnet,,,,,,,,,,,,,,,,,,
