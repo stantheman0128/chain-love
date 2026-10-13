@@ -2,7 +2,7 @@ slug,provider,offer,actionButtons,chain,technology,txSpeedSla,throughputSla,open
 hyperlane-mainnet,,!offer:hyperlane,"[""[Bridge](https://www.hyperlane.xyz/)"",""[Registry](https://github.com/hyperlane-xyz/hyperlane-registry/tree/main/chains/somnia)""]",mainnet,,,,,,,,,,,,,,,,,,
 hyperlane-testnet,,!offer:hyperlane,"[""[Bridge](https://www.hyperlane.xyz/)"",""[Registry](https://github.com/hyperlane-xyz/hyperlane-registry/tree/main/chains/somniatestnet)""]",testnet,,,,,,,,,,,,,,,,,,
 jumper-mainnet,,!offer:jumper,"[""[Bridge](https://jumper.xyz/)"",""[Integration](https://blog.somnia.network/p/somnia-integrates-with-lifi-to-expand)""]",mainnet,,,,,,,,,,,,,,,,,,
-lifi-mainnet,,!offer:lifi,"[""[Website](https://li.fi)"",""[Integration](https://blog.somnia.network/p/somnia-integrates-with-lifi-to-expand)""]",mainnet,,,,,,,,,,,,,,,,,,
+lifi-mainnet,,!offer:lifi,"[""[Website](https://li.fi)"",""[Integration](https://blog.somnia.network/p/somnia-integrates-with-lifi-to-expand)"",""[Contracts](https://docs.li.fi/introduction/lifi-architecture/smart-contract-addresses)"",""[Diamond](https://explorer.somnia.network/address/0x0bc413CAe89C5b3Ba3AA87FB98dCA23425E1828f)"",""[Permit2 Proxy](https://explorer.somnia.network/address/0x5b11025E373e5c238eF4a98f81e935259AaF79f3)""]",mainnet,,,,,,,,,,,,,,,,,,
 relay-mainnet,,!offer:relay,,mainnet,,,,,,,,,,,,,,,,,,
 smolrefuel-mainnet,,!offer:smolrefuel,,mainnet,,,,,,,,,,,,,,,,,,
 stargate-mainnet,,!offer:stargate,,mainnet,,,,,,,,,,,,,,,,,,
