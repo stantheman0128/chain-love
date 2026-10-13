@@ -1,4 +1,5 @@
 slug,provider,offer,actionButtons,chain,technology,txSpeedSla,throughputSla,openSource,support,supportedChains,starred,availableApis,monitoringAndAnalytics,additionalFeatures,assetTypes,price,economicalSecurity,economicalSecurityNote,auditsPerformed,decentralizationModel,sdk,tag
+across,,!offer:across,"[""[Bridge](https://app.across.to/bridge-and-swap)"",""[Docs](https://docs.across.to/)"",""[Chains](https://docs.across.to/chains-and-contracts)"",""[SpokePool (C-Chain)](https://explorer.avax.network/c-chain/address/0xFE9D541c92E4e90437C7152A00244886dE37a658)"",""[SpokePoolPeriphery (C-Chain)](https://explorer.avax.network/c-chain/address/0x97CCDBea4632140639aD5eA9b944aa034eb15fD4)"",""[MulticallHandler (C-Chain)](https://explorer.avax.network/c-chain/address/0x9610954AcDCA5FF7905f051A040ce33fe613c60e)""]",mainnet,,,,,,,,,,,,,,,,,,
 allbridge-core,,!offer:allbridge-core,,mainnet,,,,,,,,,,,,,,,,,,
 asterizm,,!offer:asterizm,,mainnet,,,,,,,,,,,,,,,,,,
 axelar,,!offer:axelar,,mainnet,,,,,,,,,,,,,,,,,,
