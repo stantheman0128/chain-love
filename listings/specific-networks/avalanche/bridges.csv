@@ -1,7 +1,7 @@
 slug,provider,offer,actionButtons,chain,technology,txSpeedSla,throughputSla,openSource,support,supportedChains,starred,availableApis,monitoringAndAnalytics,additionalFeatures,assetTypes,price,economicalSecurity,economicalSecurityNote,auditsPerformed,decentralizationModel,sdk,tag
 allbridge-core,,!offer:allbridge-core,,mainnet,,,,,,,,,,,,,,,,,,
 asterizm,,!offer:asterizm,,mainnet,,,,,,,,,,,,,,,,,,
-axelar,,!offer:axelar,,mainnet,,,,,,,,,,,,,,,,,,
+axelar,,!offer:axelar,"[""[Bridge](https://www.axelar.network/)"",""[Docs](https://docs.axelar.dev/)"",""[Deployments](https://github.com/axelarnetwork/axelar-contract-deployments/blob/main/axelar-chains-config/info/mainnet.json)"",""[Axelar Gateway](https://explorer.avax.network/c-chain/address/0x5029C0EFf6C34351a0CEc334542cDb22c7928f78)"",""[Axelar Gas Service](https://explorer.avax.network/c-chain/address/0x2d5d7d31F671F86C782533cc367F14109a082712)"",""[Interchain Token Service](https://explorer.avax.network/c-chain/address/0xB5FB4BE02232B1bBA4dC8f81dc24C26980dE9e3C)"",""[Interchain Token Factory](https://explorer.avax.network/c-chain/address/0x83a93500d23Fbc3e82B410aD07A6a9F7A0670D66)"",""[Axelar Deposit Service](https://explorer.avax.network/c-chain/address/0xc1DCb196BA862B337Aa23eDA1Cb9503C0801b955)""]",mainnet,,,,,,,,,,,,,,,,,,
 celer,,!offer:celer,,mainnet,,,,,,,,,,,,,,,,,,
 chainlink-bridge,,!offer:chainlink-bridge,,mainnet,,,,,,,,,,,,,,,,,,
 chainport,,!offer:chainport,,mainnet,,,,,,,,,,,,,,,,,,
