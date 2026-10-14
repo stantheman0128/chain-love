@@ -1,5 +1,5 @@
 slug,provider,offer,actionButtons,chain,technology,monitoringAndAnalytics,additionalFeatures,starred,availableApis,sdk,searchCapabilities,smartContractsVerifications,fullHistory,pricing,tag
-algo-surf-mainnet,,!offer:algo-surf,,mainnet,,,,,,,,,,,
+algo-surf-mainnet,,!offer:algo-surf,"[""[Explore](https://algo.surf/)"",""[Mainnet](https://github.com/d13co/algo.surf/blob/f1ca85aac37a77a97d46cde2933690a1904963a4/src/utils/nodeConfig.ts#L187)""]",mainnet,,,,,,,,,,,
 algo-surf-testnet,,!offer:algo-surf,"[""[Explore](https://testnet.algo.surf/)""]",testnet,,,,,,,,,,,
 algogazer-mainnet,,!offer:algogazer,,mainnet,,,,,,,,,,,
 allo-mainnet,,!offer:allo,,mainnet,,,,,,,,,,,
