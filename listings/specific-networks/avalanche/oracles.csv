@@ -1,6 +1,6 @@
 slug,provider,offer,actionButtons,chain,technology,starred,availableApis,monitoringAndAnalytics,additionalFeatures,dataTypes,decentralizationModel,economicalSecurity,economicalSecurityNote,sdk,auditsPerformed,tag
-api3-mainnet,,!offer:api3,"[""[Website](https://market.api3.org/avalanche)""]",mainnet,,,,,,,,,,,,
-api3-testnet,,!offer:api3,"[""[Website](https://market.api3.org/avalanche-testnet)""]",testnet,,,,,,,,,,,,
+api3-mainnet,,!offer:api3,"[""[Website](https://api3.org/)"",""[Docs](https://docs.api3.org/)"",""[Website](https://market.api3.org/avalanche)"",""[Api3ServerV1](https://explorer.avax.network/c-chain/address/0x709944a48cAf83535e43471680fDA4905FB3920a)""]",mainnet,,,,,,,,,,,,
+api3-testnet,,!offer:api3,"[""[Website](https://api3.org/)"",""[Docs](https://docs.api3.org/)"",""[Website](https://market.api3.org/avalanche-testnet)"",""[Api3ServerV1](https://explorer-test.avax.network/c-chain/address/0x709944a48cAf83535e43471680fDA4905FB3920a)""]",testnet,,,,,,,,,,,,
 band,,!offer:band,"[""[Website](https://bandpartners.xyz/ecosystem/Avalanche)""]",mainnet,,,,,,,,,,,,
 chainlink-mainnet,,!offer:chainlink,"[""[Website](https://docs.chain.link/ccip/directory/mainnet/chain/avalanche-mainnet)""]",mainnet,,,,,,,,,,,,
 chainlink-testnet,,!offer:chainlink,"[""[Website](https://docs.chain.link/ccip/directory/testnet/chain/avalanche-fuji-testnet)""]",testnet,,,,,,,,,,,,
