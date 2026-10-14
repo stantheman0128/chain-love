@@ -1,6 +1,7 @@
 slug,provider,offer,actionButtons,toolType,tag,price,planName,planType,description,starred
 agent-kit,,!offer:agent-kit,,,,,,,,
 ape-worx-evm-trace,,!offer:ape-worx-evm-trace,,,,,,,,
+chainlist,,!offer:chainlist,"[""[Website](https://chainlist.org/)"",""[Docs](https://sites.google.com/view/chainlistsafe/)"",""[Mainnet](https://chainlist.org/chain/314)"",""[Calibration](https://chainlist.org/chain/314159)""]",,,,,,,
 chainsafe-forest-archive,,!offer:chainsafe-forest-archive,,,,,,,,
 filecoin-pay,,!offer:filecoin-pay,,,,,,,,
 filecoin-signing-tools,,!offer:filecoin-signing-tools,,,,,,,,
